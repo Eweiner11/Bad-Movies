@@ -22,13 +22,21 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.17.2",
-    "express": "^4.15.0",
+    "express": "^4.17.1",
     "jquery": "^3.1.1",
     "mongodb": "^3.1.4",
-    "mongoose": "^5.2.12",
+    "mongoose": "^5.9.18",
     "mysql": "^2.15.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "request": "^2.83.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eweiner11/Bad-Movies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eweiner11/Bad-Movies/issues"
+  },
+  "homepage": "https://github.com/Eweiner11/Bad-Movies#readme"
 }
